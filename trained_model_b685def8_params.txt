@@ -1,0 +1,6 @@
+hidden_dims: [8, 4]
+activation: linear
+lr: 0.002
+weight_decay: 5e-05
+epochs: 250
+batch_size: 8
