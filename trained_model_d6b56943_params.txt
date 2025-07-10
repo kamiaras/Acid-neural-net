@@ -1,6 +1,0 @@
-hidden_dims: [8, 4]
-activation: Softplus
-lr: 0.002
-weight_decay: 5e-05
-epochs: 1000
-batch_size: 8
