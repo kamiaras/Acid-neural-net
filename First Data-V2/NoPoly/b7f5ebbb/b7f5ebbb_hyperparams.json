@@ -1,0 +1,16 @@
+{
+    "csv_path": "/home/kamiar/chevron/Acid-neural-net/First Data-V2/data/train_val.csv",
+    "k_folds": 7,
+    "layer_dims": [
+        4,
+        4
+    ],
+    "activations": [
+        "softplus",
+        "softplus"
+    ],
+    "epochs": 100,
+    "lr": 0.001,
+    "batch_size": 8,
+    "random_state": 42
+}
